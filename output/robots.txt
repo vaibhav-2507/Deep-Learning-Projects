@@ -1,0 +1,4 @@
+Sitemap: https://vaibhav-2507.github.io/Deep-Learning-Projects/sitemapindex.xml
+
+User-Agent: *
+Host: vaibhav-2507.github.io
